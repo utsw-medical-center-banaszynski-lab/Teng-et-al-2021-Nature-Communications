@@ -1,2 +1,2 @@
 
-These scripts are used for upstream processing of chipseq data
+These scripts are used for upstream processing of ChIPSeq data
