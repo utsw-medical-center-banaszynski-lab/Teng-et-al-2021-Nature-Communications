@@ -1,6 +1,7 @@
 # Teng-et-al-2021-Nature-Communications
 
-This repository contains code used in the upstream and downstream analyses for the following publication. 
+This repository contains code used in the upstream and downstream analyses for the following publication.
+
 ATRX promotes heterochromatin formation to protect cells from G-quadruplex DNA-mediated stress
 
 You will find scripts for processing ChIPSeq, RNASeq, CUT&Tag, EdUSeq and ATACSeq data as well as code for generating figures.
