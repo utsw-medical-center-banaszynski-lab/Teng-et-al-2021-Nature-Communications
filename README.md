@@ -1,4 +1,4 @@
-# Teng-et-al ATRX_Gquadruplex
+# Teng-et-al-2021-Nature-Communications
 
 This repository contains code used in the upstream and downstream analyses for the following publication. 
 ATRX promotes heterochromatin formation to protect cells from G-quadruplex DNA-mediated stress
