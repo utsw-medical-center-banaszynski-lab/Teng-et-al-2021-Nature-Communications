@@ -12,6 +12,7 @@ Data sets are deposited in the NCBI GEO under the following accession numbers:
 - ChIPSeq  GSE151054
 - EdUSeq   GSE151056
 - CUT&Tag  GSE171461
+
 The accession number for the SuperSeries is GSE151058.
 
 ## Questions
