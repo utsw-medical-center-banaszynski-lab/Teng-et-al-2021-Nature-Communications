@@ -8,10 +8,10 @@ You will find scripts for processing ChIPSeq, RNASeq, CUT&Tag, EdUSeq and ATACSe
 ## Data availability
 Data sets are deposited in the NCBI GEO under the following accession numbers:
 
-1.ATAC-seq GSE151053
-2.ChIPSeq  GSE151054
-3.EdUSeq   GSE151056
-4.CUT&Tag  GSE171461
+-ATAC-seq GSE151053
+-ChIPSeq  GSE151054
+-EdUSeq   GSE151056
+-CUT&Tag  GSE171461
 The accession number for the SuperSeries is GSE151058.
 
 ## Questions
